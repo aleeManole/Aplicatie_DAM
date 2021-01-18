@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AplicatieShop</string>
+
+    <string-array name="products">
+        <item>Cana</item>
+        <item>Ceas</item>
+        <item>Ceas</item>
+        <item>Lumanare</item>
+        <item>Oglinda</item>
+        <item>Scaun</item>
+        <item>Taburete</item>
+        <item>Vaza</item>
+        <item>Vaza</item>
+        <item>Vaza</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>cu model,din portelan </item>
+        <item>negru, rotund de masa din fier</item>
+        <item>de perete, rotund portocaliu/alb din lemn</item>
+        <item>parfumata, din sticla, 10cm</item>
+        <item>marime 21x30 cm patos lifestyle</item>
+        <item>dinning, din ratan negru</item>
+        <item>din material textil</item>
+        <item>neagra, din ceramica</item>
+        <item>mov din sticla</item>
+        <item>maro din ceramica 29,8cm</item>
+
+    </string-array>
+
+    <string-array name="prices">
+        <item>3$</item>
+        <item>15$</item>
+        <item>13$</item>
+        <item>5$</item>
+        <item>10$</item>
+        <item>20$</item>
+        <item>15$</item>
+        <item>7$</item>
+        <item>5$</item>
+        <item>5$</item>
+    </string-array>
+
+</resources>
